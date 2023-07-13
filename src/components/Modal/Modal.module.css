@@ -1,0 +1,19 @@
+.modalBackdrop {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modalContent {
+    position: absolute;
+    padding: 20px;
+    top: 30%;
+    left: 30%;
+    min-height: 200px;
+    width: 400px;
+    border-radius: 3px;
+    background-color: rgb(186, 235, 219);
+}
